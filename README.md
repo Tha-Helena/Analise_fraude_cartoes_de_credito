@@ -4,7 +4,7 @@ Detecção de Fraude em Cartões de Crédito
 [![author](https://img.shields.io/badge/author-Thais.Helena-red.svg)](https://www.linkedin.com/in/thais-helena-palma-9021a183/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rafaelnduarte/portfolio/issues)
 
 <p align="center">
-  <img src="https://img.freepik.com/free-photo/high-angle-credit-card-with-hook-phishing_23-2148578117.jpg?w=1380&t=st=1690417328~exp=1690417928~hmac=086fb514c58ea8a38ec1be2d95bd8b6bb01ea67cebfc5c5174427b95293b9a50" alt="imagem maneira relacionada ao projeto"height=400px >
+  <img src="https://www.modalmais.com.br/wp-content/uploads/2020/02/fraude_cartoes.jpg" alt="imagem maneira relacionada ao projeto"height=400px >
 </p>
 
 ## Detecção de Fraude em Cartões de Crédito 
